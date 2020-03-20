@@ -9,11 +9,11 @@ const server=express();
 
 server.get('/teste',(req,res)=>{
     const nome = req.query.nome;
-    return res.json({mensagem:nome});
+    return res.json({mensagem:`Olá ${nome}`});
 })
 /*
 {
-  "mensagem": "Pedro"
+  "mensagem": "Olá Pedro"
 } 
 */
 
