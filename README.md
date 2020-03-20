@@ -35,6 +35,14 @@ Primeiramente foi dado o comando 'yarn init -y' em uma determinada pasta para in
 yarn add express
 # Executando o arquivo 
 Utiliza o comando "node nomedoarquivo.js"
+# Isomnia
+Foi ultilizada essa ferramenta para fazer algumas requisições
+# Nodemon
+Ele faz com que não seja preciso ficar reeiniciando o servidor a cada mudança de código
+
+Instalação: yarn add nodemon -D
+
+Excecução: yarn nodemon nomearquivo.js
 
 
 
