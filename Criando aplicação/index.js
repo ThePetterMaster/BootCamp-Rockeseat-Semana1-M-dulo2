@@ -7,10 +7,19 @@ const server=express();
 server.get('/teste',(req,res)=>{
     return res.send('Olá Mundo');
 })
+
+/*
+Olá Mundo
+*/
 //Tratando de uma requisição GET na rota /teste respondendo com um json
 server.get('/teste2',(req,res)=>{
     return res.json({mensagem:'Olá Mundo'});
 })
+/*
+{
+  "mensagem": "Olá Mundo"
+} 
+*/
 
 //Qual porta da aplicação
 server.listen(3000);
