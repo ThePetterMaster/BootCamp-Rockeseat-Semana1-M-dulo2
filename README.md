@@ -29,6 +29,14 @@ Métodos, rotas, parâmetros de consulta, corpo e cabeçalho.
 
 5xx Erro no servidor
 
+# Iniciando o projeto
+Primeiramente foi dado o comando 'yarn init -y' em uma determinada pasta para início do projeto. Assim foi criada um arquivo chamado package.json. Ele é responsável por guardar as referências das dependências instaladas no projeto.
+# Adicionando o express
+yarn add express
+# Executando o arquivo 
+Utiliza o comando "node nomedoarquivo.js"
+
+
 
 
 
