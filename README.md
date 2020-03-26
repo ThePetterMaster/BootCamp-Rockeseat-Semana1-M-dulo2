@@ -1,6 +1,10 @@
 # BootCamp-Rockeseat-Semana1-M-dulo2
 ## Objetivo
-Contar minha experiência a aprendizado durante o BootCamp em cada módulo e semana
+Contar minha experiência a aprendizado durante o BootCamp em cada módulo e semana.
+
+O foco desses arquivos é sobre:conteúdos teóricos(explicando métodos http por exemplo), técnologias usadas(dependencias, bibliotecas etc),comandos de instalação, estrutura dos arquivos(exemplo pasta models,controllers), arquivos de configurações(arquivo que configura o banco de dados da aplicação por exemplo) etc.
+
+Detalhes sobre os códigos(o que uma tal função faz) ficaram comentadas no código
 ## Intrudução
 Esse é o primeiro módulo, então preciso mostrar conceitos que foram passados antes
 # Sobre o que se trata o módulo
