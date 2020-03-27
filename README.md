@@ -56,6 +56,14 @@ Instalação: yarn add nodemon -D
 
 Excecução: yarn nodemon nomearquivo.js
 
+# Criando um script
+No arquivo package.json, foi adicionando :
+```
+  "scripts": {
+    "dev" :"nodemon index.js"
+  },
+```
+
 
 
 
