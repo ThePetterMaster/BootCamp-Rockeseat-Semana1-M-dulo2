@@ -12,12 +12,20 @@ Nessa parte foram mostrados conceitos básicos de node, ambiente de desemvolvime
 # Instalação no Windows
 O gerenciador de pacotes recomendado foi o choccolatey.
 Para instalação segui os passos em https://chocolatey.org/install
-# Instalação do yarn
-Foi recomendado instalar o yarn, os motivos de porque não usar o npm ainda não ficaram claros
+# Yarn
+O node por padrão vem com uma ferramenta que permite baixar bibliotecas de terceiros para a aplicação(também é possível fornecer), ela é chamada de npm.Entretanto, foi recomendado instalar o yarn.
 # O que é node.js?
 Ambiente de desemvolvimento para rodar javascript fora no navegador.Usado no servidor.
+
+Basicamente ele é responsável pelo controle de rotas da aplicação e acesso ao banco de dados.
+
+O node foi construido em cima da engine v8 do google chrome.
+
+# Características do Node
+
+
 # API REST
-Baseado em requisições feitas pelo cliente respondendo com uma estrutura de dados geralmente em json
+Baseado em requisições feitas pelo cliente respondendo com uma estrutura de dados geralmente em json.
 # Métodos HTTP
 GET POST PUT DELETE
 # Conteúdo das requisições
